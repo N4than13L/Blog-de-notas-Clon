@@ -1,0 +1,18 @@
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\bin\Debug\net6.0-windows\Block de notas.exe
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\bin\Debug\net6.0-windows\Block de notas.deps.json
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\bin\Debug\net6.0-windows\Block de notas.runtimeconfig.json
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\bin\Debug\net6.0-windows\Block de notas.dll
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\bin\Debug\net6.0-windows\Block de notas.pdb
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block de notas.csproj.AssemblyReference.cache
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block_de_notas.Form1.resources
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block de notas.csproj.GenerateResource.cache
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block de notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block de notas.AssemblyInfoInputs.cache
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block de notas.AssemblyInfo.cs
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block de notas.csproj.CoreCompileInputs.cache
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block de notas.dll
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\refint\Block de notas.dll
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block de notas.pdb
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block de notas.genruntimeconfig.cache
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\ref\Block de notas.dll
+C:\Users\Nathaniel\source\repos\Block de notas\Block de notas\obj\Debug\net6.0-windows\Block_de_notas.Info.resources
